@@ -50,7 +50,7 @@ export default function Home() {
             alt: "Telegram",
           },
           {
-            href: "https://github.com/HYPEANDLINKS",
+            href: "https://github.com/HyperlinksSpace",
             src: "/socials/GitHub.svg",
             alt: "GitHub",
           },
